@@ -1,6 +1,6 @@
 language: python
 python:
-    - "3.12"
+    - 3.12
 install:
     - py -3 -m pip install --upgrade pytest
 script:
