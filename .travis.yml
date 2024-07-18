@@ -1,7 +1,8 @@
 language: python
+os: windows
 python:
-    - 3.11
+    - 3.8
 install:
-    - py -3 -m pip install --upgrade pytest
+    - pip install --upgrade pytest
 script:
-    - py -3 -m pytest
+    - pytest
