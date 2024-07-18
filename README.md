@@ -1,1 +1,1 @@
-# emote_classifier
+Emotion Classifier Project
